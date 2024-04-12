@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|c:\\users\\hp-650 g1\\onedrive\\desktop\\crudiproject\\backcrud\\backcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|solutionrelative:backcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|c:\\users\\hp-650 g1\\onedrive\\desktop\\crudiproject\\backcrud\\backcrud\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|solutionrelative:backcrud\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|c:\\users\\hp-650 g1\\onedrive\\desktop\\crudiproject\\backcrud\\backcrud\\backcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|solutionrelative:backcrud\\backcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|c:\\users\\hp-650 g1\\onedrive\\desktop\\crudiproject\\backcrud\\backcrud\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70C4DB62-AEE4-4939-8C5B-6EA30BD870B0}|backcrud\\backcrud.csproj|solutionrelative:backcrud\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\appsettings.json",
+              "RelativeDocumentMoniker": "backcrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\appsettings.json",
+              "RelativeToolTip": "backcrud\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T12:38:23.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "backcrud.csproj",
+              "DocumentMoniker": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj",
+              "RelativeDocumentMoniker": "backcrud\\backcrud.csproj",
+              "ToolTip": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj",
+              "RelativeToolTip": "backcrud\\backcrud.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-11T10:17:37.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibriController.cs",
+              "DocumentMoniker": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\Controllers\\LibriController.cs",
+              "RelativeDocumentMoniker": "backcrud\\Controllers\\LibriController.cs",
+              "ToolTip": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\Controllers\\LibriController.cs",
+              "RelativeToolTip": "backcrud\\Controllers\\LibriController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:37:13.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libri.cs",
+              "DocumentMoniker": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\Models\\Libri.cs",
+              "RelativeDocumentMoniker": "backcrud\\Models\\Libri.cs",
+              "ToolTip": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\Models\\Libri.cs",
+              "RelativeToolTip": "backcrud\\Models\\Libri.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:37:06.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
