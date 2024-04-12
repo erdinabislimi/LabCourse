@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "flvOMQH1f2hbje3PFoIXXCQcFrEyszeiKrvvMC3Q1jfYhwg9w/f1hwdAxMrof/NhiEPOQe8cqnyuKuUUgIFhtA==",
+  "dgSpecHash": "WxBbGVUm9eKgxoF0rbcTRnQuAaq2FTZmNzHgZDEZn6uaoXk8O0X+d6TXsqFINlLyhF3tWuMY0DxbDZdG4xBjnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj",
+  "projectFilePath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\LabCourse\\backcrud\\backcrud\\backcrud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP-650 G1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HP-650 G1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj": {}
+    "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\LabCourse\\backcrud\\backcrud\\backcrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj": {
+    "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\LabCourse\\backcrud\\backcrud\\backcrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj",
+        "projectUniqueName": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\LabCourse\\backcrud\\backcrud\\backcrud.csproj",
         "projectName": "backcrud",
-        "projectPath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\backcrud.csproj",
+        "projectPath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\LabCourse\\backcrud\\backcrud\\backcrud.csproj",
         "packagesPath": "C:\\Users\\HP-650 G1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\crudiProject\\backcrud\\backcrud\\obj\\",
+        "outputPath": "C:\\Users\\HP-650 G1\\OneDrive\\Desktop\\LabCourse\\backcrud\\backcrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP-650 G1\\AppData\\Roaming\\NuGet\\NuGet.Config",
